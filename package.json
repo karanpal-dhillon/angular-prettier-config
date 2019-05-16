@@ -1,0 +1,20 @@
+{
+  "name": "angular-prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.1",
+    "tslint-config-prettier": "^1.18.0"
+  }
+}
