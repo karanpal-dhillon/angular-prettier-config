@@ -1,3 +1,4 @@
+#!/usr/bin/env/ node
 let fs = require('fs');
 let ps = require('process');
 let path = require('path');
